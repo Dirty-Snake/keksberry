@@ -1,0 +1,17 @@
+{
+  "name": "keksberry",
+  "version": "0.1.0",
+  "description": "keksberry themes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "w3studio.pro",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
+    "gulp-watch-sass": "^1.4.1"
+  }
+}
